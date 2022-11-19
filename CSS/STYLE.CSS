@@ -1,0 +1,26 @@
+.header {
+    font-family: Sans-Serif, Helvetica, Serif;
+    font-size: 22px;
+    text-align: center;   
+}
+
+h4 {
+    font-family: Sans-Serif, Helvetica, Serif;
+    font-size: 18px;
+}
+
+tbody {
+    font-family: Sans-Serif, Helventica, Serif;
+    text-align: center;
+}
+
+.description {
+    font-family: sans-serif, Helvetica, Serif;
+    font-size: 14px;
+    text-align:justify;
+}
+
+p {
+    font-family: Sans-Serif, Helvetica, Serif;
+    text-align: justify;
+}
