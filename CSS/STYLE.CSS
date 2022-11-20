@@ -4,20 +4,41 @@
     text-align: center;   
 }
 
+th {
+    background-color:rgb(115, 147, 179)
+}
+
+th {
+    color: white;
+}
+
 h4 {
     font-family: Sans-Serif, Helvetica, Serif;
     font-size: 18px;
+    text-align: center
+}
+
+table {
+    border-style: solid;
+    border-color: black;
 }
 
 tbody {
-    font-family: Sans-Serif, Helventica, Serif;
+    font-family: Sans-Serif, Helvetica, Serif;
     text-align: center;
+}
+
+.highlight {
+    display: inline-block;
+    padding: .25em 0;
+    background: rgb(211, 211, 211)
 }
 
 .description {
     font-family: sans-serif, Helvetica, Serif;
     font-size: 14px;
     text-align:justify;
+    padding: .28em 0;
 }
 
 p {
